@@ -1,0 +1,20 @@
+{
+  "name": "node-script-starter",
+  "version": "1.0.0",
+  "description": "node script starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanieTM/node-script-starter.git"
+  },
+  "author": "Stephanie.Gao <tm1997@163.com>",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/StephanieTM/node-script-starter/issues"
+  },
+  "homepage": "https://github.com/StephanieTM/node-script-starter#readme"
+}
